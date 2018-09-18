@@ -1,0 +1,49 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: #747704;
+}
+
+.muted {
+    color: #788c9e;
+}
+
+.logo {
+    width: 100px;
+    margin-top: 20px;
+    height: 100px;
+}
+
+.thin {
+    font-weight: 200;
+    color: #2d3c49;
+}
+
+.super {
+    font-size: 60px;
+}
+
+.hrline {
+    background-color: #7d97ad;
+    border: 0 none;
+    color: #7d97ad;
+    height: 3px;
+}
+
+.mainimage {
+    width: 100%;
+}
+
+.hyperlink {
+    color: black;
+}
+
+.bor{
+    border: 1px solid grey;
+    padding: 0px !important;
+    margin: 15px;
+}
+
+h3{
+        background-color: #e6e4e4;
+    padding: 5px;
+}
